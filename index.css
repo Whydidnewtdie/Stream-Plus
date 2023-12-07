@@ -7,17 +7,6 @@ body {
   -moz-osx-font-smoothing: grayscale;
 }
 
-h1 {
-  font-family: 'Arial', cursive;
-  color: #ffffff;
-  font-size: 400px
-}
-
-.form_style {
-  color: #ffffff;
-  font-weight: bold;
-
-}
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
